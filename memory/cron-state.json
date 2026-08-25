@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-08-25T07:15:26Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-08-25T01:13:08Z",
-    "total_runs": 36,
+    "last_status": "failed",
+    "last_failed": "2026-08-25T07:15:55Z",
+    "total_runs": 37,
     "total_successes": 0,
-    "total_failures": 36,
-    "consecutive_failures": 36,
+    "total_failures": 37,
+    "consecutive_failures": 37,
     "success_rate": 0,
     "last_error": "claude exited 1: service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{},\"permiss"
   }
